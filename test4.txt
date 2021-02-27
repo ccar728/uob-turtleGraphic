@@ -1,0 +1,12 @@
+{
+   DO A FROM 50 TO 70 {
+      FD A
+      RT 75
+      DO B FROM 10 TO 20 {
+         SET C := A 5 / ;
+         FD C
+         LT 35
+         FD 25
+      }
+   }
+}
