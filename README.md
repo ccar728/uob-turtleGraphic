@@ -1,5 +1,2 @@
 # uob-turtleGraphic
-step1.
-  install sdl
-step2.
-  use "make all run" in terminal
+Install sdl, then type in "make all run" in terminal
